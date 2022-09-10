@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api-gateway/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/products/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-authenticatiom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-authenticatiom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-authentication/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../shoppingsitebackend/shopping-site/user-authenticatiom/src/main/java" charset="UTF-8" />
+  </component>
+</project>
