@@ -1,0 +1,147 @@
+{
+  "posts": [
+    {
+      "id": -1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "name": "test",
+      "email": "test@123",
+      "password": "test",
+      "cartItems": [
+        {
+          "id": "2",
+          "name": "Realme Buds 2",
+          "price": "799",
+          "path": "./pics/realme-buds2.jpg",
+          "quantity": 5
+        },
+        {
+          "id": "6",
+          "name": "NoteBook",
+          "price": "499",
+          "path": "./pics/notebook.jpg",
+          "quantity": 2
+        },
+        {
+          "id": "1",
+          "name": "Realme 9 pro +",
+          "price": "29999",
+          "path": "./pics/Realme-9-Pro-plus.jpg",
+          "quantity": 4
+        },
+        {
+          "id": "3",
+          "name": "Iphone",
+          "price": "74499",
+          "path": "./pics/iphone.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "5",
+          "name": "Laptop",
+          "price": "60499",
+          "path": "./pics/Laptop.jpg",
+          "quantity": 8
+        }
+      ],
+      "id": 1
+    },
+    {
+      "name": "Priyanshu Singh",
+      "email": "priyanshu@gmail.com",
+      "password": "abcd",
+      "cartItems": [
+        {
+          "id": "1",
+          "name": "Realme 9 pro +",
+          "price": "29999",
+          "path": "./pics/Realme-9-Pro-plus.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "9",
+          "name": "Laptop",
+          "price": "60499",
+          "path": "./pics/laptop.jpg",
+          "quantity": 1
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "dsvsdbsf",
+      "email": "dsgfdhseg",
+      "password": "dhsdgfd",
+      "cartItems": [],
+      "id": 3
+    },
+    {
+      "name": "prrjs",
+      "email": "prrjs@gmail.com",
+      "password": "prrjs",
+      "cartItems": [
+        {
+          "id": "2",
+          "name": "Realme Buds 2",
+          "price": "799",
+          "path": "./pics/realme-buds2.jpg",
+          "quantity": 2
+        },
+        {
+          "id": "3",
+          "name": "Iphone",
+          "price": "74499",
+          "path": "./pics/iphone.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "9",
+          "name": "Laptop",
+          "price": "60499",
+          "path": "./pics/laptop.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "wfnfbwejk",
+          "name": "Realme Buds 2",
+          "price": "799",
+          "path": "./pics/realme-buds2.jpg",
+          "quantity": 1
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "dsvsdbsf",
+      "email": "dsgfdhseg",
+      "password": "dhsdgfd",
+      "cartItems": [],
+      "id": 5
+    },
+    {
+      "name": "dsvsdbsf",
+      "email": "dsgfdhseg",
+      "password": "dhsdgfd",
+      "cartItems": [],
+      "id": 6
+    },
+    {
+      "name": "dsvsdbsf",
+      "email": "dsgfdhseg",
+      "password": "dhsdgfd",
+      "cartItems": [],
+      "id": 7
+    },
+    {
+      "name": "raj",
+      "email": "raj@gmail.com",
+      "password": "raj",
+      "cartItems": [],
+      "id": 8
+    }
+  ]
+}
